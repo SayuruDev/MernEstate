@@ -1,0 +1,18 @@
+{
+  "github.copilot.chat.agent.runTasks": false,
+  "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+  "github.copilot.chat.followUps": "never",
+  "github.copilot.chat.useProjectTemplates": false,
+  "github.copilot.editor.enableCodeActions": false,
+  "github.copilot.renameSuggestions.triggerAutomatically": false,
+  "github.copilot.chat.copilotDebugCommand.enabled": false,
+  "github.copilot.chat.reviewSelection.enabled": false,
+  "github.copilot.chat.edits.suggestRelatedFilesFromGitHistory": false,
+  "github.copilot.chat.edits.newNotebook.enabled": false,
+  "github.copilot.chat.edits.suggestRelatedFilesForTests": false,
+  "github.copilot.chat.startDebugging.enabled": false,
+  "github.copilot.chat.newWorkspaceCreation.enabled": false,
+  "github.copilot.enable": {
+    "*": false
+  }
+}
